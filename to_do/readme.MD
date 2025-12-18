@@ -15,4 +15,4 @@ and local JSON storage.
 cd to_do
 
 # Run the application
-python todo_app.py
+python todo.py
